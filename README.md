@@ -36,11 +36,15 @@ Optimal K value found through Error Rate vs. K plot
 
 Evaluated model using confusion matrix and performance metrics
 
-📈 Results and Model Performance Metric Result Accuracy 96% Precision 97.66% Recall 97.27% F1-Score 97.46%
+Results and Model Performance Metric Result Accuracy 96% Precision 97.66% Recall 97.27% F1-Score 97.46%
 
-✅ The model demonstrates strong reliability and consistency in predicting the best crop for given soil and climate conditions. ✅ Low error rate achieved for K = 5. ✅ Visual analyses confirm good classification balance and minimal misclassification.
+- The model demonstrates strong reliability and consistency in predicting the best crop for given soil and climate conditions. 
+- Low error rate achieved for K = 5. 
+- Visual analyses confirm good classification balance and minimal misclassification.
 
-🌾 Impact 🔹 Agricultural Decision Support
+  ## Impact  ##
+  
+🔹 Agricultural Decision Support
 
 Provides farmers with evidence-based crop recommendations.
 
